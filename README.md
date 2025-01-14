@@ -4,6 +4,9 @@
 
 - <b>Pen-Test Report Practice</b>
   - [Pen-Test Report](https://github.com/Brady0Reid/Pen-Test-Report)
+- <b>OWASP Juice Shop CTFs</b>
+  - [OWASP Juice Shop](https://github.com/Brady0Reid/Pen-Test-Report)
+
 
 
 
