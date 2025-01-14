@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and other Projects:</h2>
 
 - <b>Pen-Test Report Practice</b>
-  - [Pen-Test Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pen-Test Report](https://github.com/Brady0Reid/Pen-Test-Report)
 
 
 <h2>📺 My YouTube Videos</h2>
