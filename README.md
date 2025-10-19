@@ -1,6 +1,6 @@
 <!-- Profile README for Brady0Reid -->
 
-<img src="https://i.imgur.com/sG0nZjQ.png" alt="Brady Reid Banner" width="100%">
+<img src=Banner.jpg alt="Brady Reid Banner" width="100%">
 
 # 👋 Hi, I'm Brady Reid  
 🎓 **Cybersecurity Student | Aspiring Cloud Security Professional | Ethical Hacking Enthusiast**  
