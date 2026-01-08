@@ -5,8 +5,7 @@
 # 👋 Hi, I'm Brady Reid  
 🎓 **Cybersecurity Student | Cloud Security & Zero Trust | Ethical Hacking**
 
-I’m an IT & Cybersecurity student at **Grand Canyon University** with hands-on experience in penetration testing, cloud security, and digital forensics.  
-I focus on building **secure, identity-first cloud architectures** and documenting real-world security labs aligned with enterprise best practices.
+💻 Aspiring Cloud Security Professional | AWS, Cloud Infrastructure & Security Engineering | IT & Cybersecurity Student at Grand Canyon University 🎓
 
 ---
 
