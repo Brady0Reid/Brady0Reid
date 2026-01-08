@@ -12,7 +12,7 @@ I focus on building **secure, identity-first cloud architectures** and documenti
 
 ## 🧠 About Me  
 
-- 🌩️ Building **Zero Trust cloud architectures** in AWS  
+- 🌩️ Built **Zero Trust cloud architectures** in AWS  
 - 🔐 Focused on **IAM hardening**, **private networking**, and **least privilege access**
 - 🛠️ Hands-on with **Kali Linux**, **Metasploit**, **Nmap**, **Burp Suite**, **Wireshark**, and **OpenVAS**
 - ☁️ Experienced with **AWS CloudTrail, CloudWatch, SSM, VPC Endpoints**
