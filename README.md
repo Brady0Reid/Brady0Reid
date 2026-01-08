@@ -1,6 +1,6 @@
 <!-- Profile README for Brady0Reid -->
 
-<img src="https://github.com/Brady0Reid/Banner.jpg/raw/main/Banner.jpg" alt="Brady Reid Banner" width="100%">
+<img src="https://github.com/Brady0Reid/Background/blob/main/CloudSecurityBanner.png" alt="Brady Reid Banner" width="75%">
 
 # 👋 Hi, I'm Brady Reid  
 🎓 **Cybersecurity Student | Cloud Security & Zero Trust | Ethical Hacking**
