@@ -80,7 +80,7 @@ Designed and implemented a **production-style Zero Trust architecture in AWS**, 
 ## 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-Brady%20Reid-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/brady-reidin)  
-📫 **Email:** bbradyreid2004@gmail.com  
+
 🌐 **GitHub:** [github.com/Brady0Reid](https://github.com/Brady0Reid)
 
 ---
